@@ -1,0 +1,30 @@
+.header {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+.back {
+  background-color: black;
+  text-align: center;
+}
+h1{
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42;
+  color: white;
+}
+.nothing{
+  color: aquamarine;
+  font-size: 16px;
+}
+#background .para{
+  background-color: black;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: right;
+}
